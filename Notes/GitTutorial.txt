@@ -1,0 +1,27 @@
+git add . 
+git add * 
+git add -a 
+
+git push -u origin master 
+
+git push origin master 
+
+.git folder will never be pushed to github repository 
+
+
+Status Life Cycle 
+
+Untracked files : git will ignore the files 
+Tracked files : git will know about the files 
+
+Tracked files 
+Unmodified  
+Modified 
+Staged
+
+
+git init once you execute this command .git file will be created 
+
+
+
+
