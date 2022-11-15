@@ -30,6 +30,9 @@ Commiter -- the one who commits into the project
 
 git log --oneline (shows single line )
 
+stagging -- adding the files for commit 
+for second commit there will be refrence (parent) of first commit
+
 
 
 
