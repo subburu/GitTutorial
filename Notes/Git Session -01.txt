@@ -1,0 +1,25 @@
+Git Bash Commands 
+
+Init 
+clone 
+add 
+status
+commit 
+push 
+pull 
+checkout 
+reset
+log 
+rm 
+branch 
+merge 
+rebase 
+stash 
+
+------------------------------
+
+
+we are having several git commands to perform operations with git repository 
+Note : Our repository is available in git hub.commands
+
+

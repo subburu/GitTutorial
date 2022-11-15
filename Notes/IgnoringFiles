@@ -1,0 +1,13 @@
+1000 files in project , 100 files you dont want to commit 
+
+
+Create .gitIgnore 
+
+we can ignore the files 
+
+Rules 
+# Comments or blank lines  
+Specific file : filename 
+File pattern *.txt
+foldername/
+ *.js 
