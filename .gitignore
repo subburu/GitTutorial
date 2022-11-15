@@ -1,0 +1,6 @@
+# comments can be placed 
+ign.txt
+Git Tutorial-01.docx
+*.js 
+!main.js
+/forward slash for current directory 

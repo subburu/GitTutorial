@@ -1,0 +1,36 @@
+what are the changes made in the particular file 
+
+Git status will always shows the files , git diff will show the content of the files 
+
+git diff --staged
+
+git diff --cached 
+
+
+Git Commit :
+
+Two types of commits 
+
+direct git commit  : Notepad++ will open 
+single line commit :
+
+git commit -v 
+Inline commit  -- 
+multiple commits "if information is more than use git commit -v'
+git commit -m 'Testing ' 
+---------------------------------
+
+Git log History 
+shows previous commits -- chronological order it will display 
+An idea will be generated internally -- commit id is 40 characters
+
+git log --pretty=full
+Author -- the one who created the project 
+Commiter -- the one who commits into the project
+
+git log --oneline (shows single line )
+
+
+
+
+
