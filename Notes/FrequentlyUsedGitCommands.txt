@@ -1,0 +1,77 @@
+Frequently used GIT Commands 
+
+Initialize a local Git Repository 
+git init 
+
+Create a local copy of a remote Repository
+git clone url 
+
+Add file to the staging area 
+git add * 
+git add file name 
+git add A 
+
+Commit Changes 
+git commit -m "commit message"
+
+Remove a file 
+git rm -r (Filename.txt)
+
+Create a new branch 
+git branch [branchname]
+
+Delete a branch 
+git branch -d [branchname]
+
+
+Merge a branch into Active branch
+git merge [branchname]
+
+How to merge a branch into Target branch 
+git merge [sourcebranch][Target branchname]
+
+
+How to push a branch into the remote repository 
+git push origin [branchname]
+
+How to push the changes to a remote repository?
+git push 
+
+Pull the changes from the remote repository?
+git push origin [branchname]
+
+Add a remote repository?
+git remote add origin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
