@@ -1,0 +1,25 @@
+Merging 
+
+Two branches -- need to be merged 
+which branch we need to merge -- we need to checkout that branch (development)
+
+
+git checkout master
+error: Your local changes to the following files would be overwritten by checkout:
+        Home.html.txt
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+ git merge Emailfix
+Updating c0ef99b..7a781a9
+Fast-forward
+ Address.html.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+git branch -d branch name to delete the branch 
+
+
+git merge 
+recursive strategy 
+
+

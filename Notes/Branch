@@ -1,0 +1,39 @@
+Branch : Pointer to one of the commits
+
+Creating a Branch
+
+git branch branchname
+
+Head always shows the current branch on which we are presently working 
+
+git checkout branchname 
+Switched to branch 'branchname'
+
+git log --oneline --all 
+shows all the commits of all branches 
+
+git checkout -b branchname 
+
+git log -1 
+git log -2
+
+git log --pretty=oneline
+git log -p
+
+git commit 
+
+second commit is derviaved from the first commit -- 
+there will be refrence of first commit as parent
+
+(root-commit) -- initial commit or first commit 
+
+954ea4dcd522e73536b1001f52a540fd6182e652  : 40 character commit id -- Internally happens
+
+Author is one who creates repo , committer is one who make commits 
+
+git checkout branchname 
+
+
+
+
+
